@@ -1,0 +1,49 @@
+{
+  "hcidata":{
+    "name":"hcidata",
+    "version":"1.0.2",
+    "type":"lib",
+    "contains":[
+      "hcidata\/certificate-blank.pub",
+      "hcidata\/certified\/c333ae04f67693b0a319181de447a7a3ea4238e5.jpg",
+      "hcidata\/fonts\/FontAwesome.otf",
+      "hcidata\/fonts\/berlin-sans-fb.ttf",
+      "hcidata\/fonts\/book-antiqua-italic.ttf",
+      "hcidata\/fonts\/calibri-bold.ttf",
+      "hcidata\/fonts\/consola.ttf",
+      "hcidata\/fonts\/fontawesome-webfont.eot",
+      "hcidata\/fonts\/fontawesome-webfont.svg",
+      "hcidata\/fonts\/fontawesome-webfont.ttf",
+      "hcidata\/fonts\/fontawesome-webfont.woff",
+      "hcidata\/fonts\/fontawesome-webfont.woff2",
+      "hcidata\/fonts\/monotype.ttf",
+      "hcidata\/fonts\/segoeuil.ttf",
+      "hcidata\/fonts\/tahoma.ttf",
+      "hcidata\/fonts\/trado.ttf",
+      "hcidata\/info.ini",
+      "hcidata\/raw\/_blank.jpg",
+      "hcidata\/raw\/_sign.png",
+      "hcidata\/raw\/_stamp.png",
+      "hcidata\/sample.ini"
+    ],
+    "authors":[
+      "Abu Ayyub"
+    ]
+  },
+  "ext.hci":{
+    "name":"hci",
+    "version":"1.1.1",
+    "type":"ext",
+    "contains":[
+      "hci.ai"
+    ],
+    "requires":[
+      "hcidata"
+    ],
+    "authors":[
+      "Abu Ayyub"
+    ]
+  }
+}
+
+
