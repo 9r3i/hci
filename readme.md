@@ -1,10 +1,10 @@
 
 [![Author](https://img.shields.io/badge/author-9r3i-lightgrey.svg)](https://github.com/9r3i)
-[![License](https://img.shields.io/github/license/9r3i/hci.svg)](https://github.com/9r3i/hci/blob/master/license.txt)
-[![Forks](https://img.shields.io/github/forks/9r3i/hci.svg)](https://github.com/9r3i/hci/network)
-[![Stars](https://img.shields.io/github/stars/9r3i/hci.svg)](https://github.com/9r3i/hci/stargazers)
-[![Issues](https://img.shields.io/github/issues/9r3i/hci.svg)](https://github.com/9r3i/hci/issues)
-[![Release](https://img.shields.io/github/release/9r3i/hci.svg)](https://github.com/9r3i/hci/releases)
+[![License](https://img.shields.io/github/license/9r3i/hci-console.svg)](https://github.com/9r3i/hci-console/blob/master/license.txt)
+[![Forks](https://img.shields.io/github/forks/9r3i/hci-console.svg)](https://github.com/9r3i/hci-console/network)
+[![Stars](https://img.shields.io/github/stars/9r3i/hci-console.svg)](https://github.com/9r3i/hci-console/stargazers)
+[![Issues](https://img.shields.io/github/issues/9r3i/hci-console.svg)](https://github.com/9r3i/hci-console/issues)
+[![Release](https://img.shields.io/github/release/9r3i/hci-console.svg)](https://github.com/9r3i/hci-console/releases)
 
 
 # What is HCI?
