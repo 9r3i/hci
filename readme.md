@@ -19,7 +19,7 @@
 - For AI users, simply use command:
 
 ```
-$ ai pkg addrepository 9r3i/hci-console
+$ ai pkg add repository 9r3i/hci-console
 $ ai install ext.hci
 ```
 
