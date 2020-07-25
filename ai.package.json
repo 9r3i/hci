@@ -1,7 +1,7 @@
 {
   "hcidata":{
     "name":"hcidata",
-    "version":"2.0.0",
+    "version":"2.0.1",
     "type":"lib",
     "contains":[
       "hcidata\/certificate-blank.pub",
@@ -28,6 +28,7 @@
       "hcidata\/raw\/hci-blank-one.jpg",
       "hcidata\/raw\/hci-blank-two.jpg",
       "hcidata\/raw\/hrm-blank-one.jpg",
+      "hcidata\/raw\/hrm-blank-two.jpg",
       "hcidata\/raw\/none.png",
       "hcidata\/raw\/sign-jack-alenzo.png",
       "hcidata\/raw\/stamp-hci.png",
